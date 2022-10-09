@@ -1,7 +1,7 @@
 # roochishah22.github.io
 My Personal Website!
 
-What to find: 
+Includes: 
   - brief descriptions of projects, research, and internships 
   - course notes 🎒: course notes from relevant CMU/Stanford courses I've completed and/or am self-studying
   - textbook notes 📘: notes/excercises from relevant textbooks I'm reading
